@@ -7,3 +7,5 @@
 * Html
 * CSS
 * Javascript
+
+Deploy vercel https://calculator-react-juniorlourenco.vercel.app/
